@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bcit.comp2522.lectures.sl09.MyHashMapTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-27T22:34:17" hostname="pop-os" time="0.014">
+  <properties/>
+  <testcase name="add()" classname="org.bcit.comp2522.lectures.sl09.MyHashMapTest" time="0.012"/>
+  <testcase name="get()" classname="org.bcit.comp2522.lectures.sl09.MyHashMapTest" time="0.0"/>
+  <testcase name="hash()" classname="org.bcit.comp2522.lectures.sl09.MyHashMapTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
